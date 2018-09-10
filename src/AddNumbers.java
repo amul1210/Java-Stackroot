@@ -27,7 +27,7 @@ public class AddNumbers {
             }
             System.out.println(sum);
         }
-        catch(NumberFormatException e)
+        catch(Exception e)
         {
             System.out.println("Illegal Input");
         }
