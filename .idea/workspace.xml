@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aeac5f6-b480-46ac-bd28-fb4bf8aa72c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/CharRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/letterCheckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Amul/LetterCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Amul/LetterCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LetterCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consonentvowel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,13 +18,15 @@
     <session id="1075210829">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -30,13 +35,13 @@
           <entry key="CharType" value="4" />
           <entry key="UnspecifiedNumbers" value="1" />
           <entry key="class" value="6" />
-          <entry key="java" value="59" />
+          <entry key="java" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="60" />
+          <entry key="JAVA" value="63" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -44,12 +49,12 @@
         <counts>
           <entry key="AddNumbers" value="74" />
           <entry key="CharType" value="95" />
-          <entry key="java" value="3419" />
+          <entry key="java" value="3723" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3445" />
+          <entry key="JAVA" value="3749" />
           <entry key="PLAIN_TEXT" value="143" />
         </counts>
       </usages-collector>
@@ -57,29 +62,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CharRepeat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AddNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="29" selection-start-line="29" selection-end-line="32" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/revereseStringtest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -87,38 +74,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Numrepeat.java">
+        <entry file="file://$PROJECT_DIR$/src/consonentvowel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/letterCheckTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/CharRepeatTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/NumrepeatTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -128,8 +106,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -157,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/TomAndJerry.java" />
         <option value="$PROJECT_DIR$/src/CharType" />
         <option value="$PROJECT_DIR$/src/Palindromecheck.java" />
-        <option value="$PROJECT_DIR$/src/LetterCheck.java" />
         <option value="$PROJECT_DIR$/src/GuessTheNumber.java" />
         <option value="$PROJECT_DIR$/src/OrderingNumbers.java" />
         <option value="$PROJECT_DIR$/Test/Test1.java" />
@@ -169,6 +146,11 @@
         <option value="$PROJECT_DIR$/Test/CharRepeatTest.java" />
         <option value="$PROJECT_DIR$/src/AddNumbers.java" />
         <option value="$PROJECT_DIR$/src/CharRepeat.java" />
+        <option value="$PROJECT_DIR$/Test/letterCheck.java" />
+        <option value="$PROJECT_DIR$/src/LetterCheck.java" />
+        <option value="$PROJECT_DIR$/src/consonentVowel.java" />
+        <option value="$PROJECT_DIR$/src/consonentvowel.java" />
+        <option value="$PROJECT_DIR$/Test/letterCheckTest.java" />
       </list>
     </option>
   </component>
@@ -183,6 +165,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,21 +189,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536583579769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536639254611" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -240,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CharRepeatTest.testForShortLength">
+  <component name="RunManager" selected="JUnit.letterCheckTest">
     <configuration name="CharRepeatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Amul" />
       <option name="PACKAGE_NAME" value="" />
@@ -269,38 +253,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharRepeatTest.testForSpecialCharacter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="letterCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Amul" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CharRepeatTest" />
-      <option name="METHOD_NAME" value="testForSpecialCharacter" />
+      <option name="MAIN_CLASS_NAME" value="letterCheckTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="letterCheckTest.specialCharacterString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Amul" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="letterCheckTest" />
+      <option name="METHOD_NAME" value="specialCharacterString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="revereseStringtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Amul" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="revereseStringtest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.revereseStringtest" />
       <item itemvalue="JUnit.CharRepeatTest" />
-      <item itemvalue="JUnit.CharRepeatTest.testForSpecialCharacter" />
       <item itemvalue="JUnit.CharRepeatTest.testForCapital" />
       <item itemvalue="JUnit.CharRepeatTest.testForShortLength" />
+      <item itemvalue="JUnit.letterCheckTest" />
+      <item itemvalue="JUnit.letterCheckTest.specialCharacterString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.letterCheckTest" />
+        <item itemvalue="JUnit.letterCheckTest.specialCharacterString" />
+        <item itemvalue="JUnit.CharRepeatTest" />
         <item itemvalue="JUnit.CharRepeatTest.testForShortLength" />
         <item itemvalue="JUnit.CharRepeatTest.testForCapital" />
-        <item itemvalue="JUnit.CharRepeatTest" />
-        <item itemvalue="JUnit.CharRepeatTest.testForSpecialCharacter" />
-        <item itemvalue="JUnit.revereseStringtest" />
       </list>
     </recent_temporary>
   </component>
@@ -318,24 +302,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CharRepeatTest_testForSpecialCharacter - 2018.09.10 at 18h 00m 44s.xml">
-      <configuration name="CharRepeatTest.testForSpecialCharacter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharRepeatTest_testForSpecialCharacter - 2018.09.10 at 18h 02m 18s.xml">
-      <configuration name="CharRepeatTest.testForSpecialCharacter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharRepeatTest_testForSpecialCharacter - 2018.09.10 at 18h 03m 18s.xml">
-      <configuration name="CharRepeatTest.testForSpecialCharacter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharRepeatTest_testForSpecialCharacter - 2018.09.10 at 18h 04m 08s.xml">
-      <configuration name="CharRepeatTest.testForSpecialCharacter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharRepeatTest_testForSpecialCharacter - 2018.09.10 at 18h 04m 36s.xml">
-      <configuration name="CharRepeatTest.testForSpecialCharacter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharRepeatTest_testForSpecialCharacter - 2018.09.10 at 18h 04m 55s.xml">
-      <configuration name="CharRepeatTest.testForSpecialCharacter" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CharRepeatTest_testForSpecialCharacter - 2018.09.10 at 18h 09m 34s.xml">
       <configuration name="CharRepeatTest.testForSpecialCharacter" configurationId="JUnit" />
     </history-entry>
@@ -347,6 +313,24 @@
     </history-entry>
     <history-entry file="CharRepeatTest_testForCapital - 2018.09.10 at 18h 12m 00s.xml">
       <configuration name="CharRepeatTest.testForCapital" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharRepeatTest_testForShortLength - 2018.09.10 at 18h 16m 20s.xml">
+      <configuration name="CharRepeatTest.testForShortLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharRepeatTest - 2018.09.11 at 09h 14m 17s.xml">
+      <configuration name="CharRepeatTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="letterCheckTest - 2018.09.11 at 09h 42m 21s.xml">
+      <configuration name="letterCheckTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="letterCheckTest - 2018.09.11 at 09h 43m 20s.xml">
+      <configuration name="letterCheckTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="letterCheckTest_specialCharacterString - 2018.09.11 at 09h 43m 44s.xml">
+      <configuration name="letterCheckTest.specialCharacterString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="letterCheckTest - 2018.09.11 at 09h 44m 08s.xml">
+      <configuration name="letterCheckTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -360,9 +344,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="690" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2090909" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21515152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,15 +354,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49318182" weight="0.2857143" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49015152" weight="0.2857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49545455" weight="0.0" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5121212" side_tool="true" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49469697" weight="0.32857144" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5098485" side_tool="true" visible="true" weight="0.2857143" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.4878788" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4840909" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,13 +422,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.cache/.fr-rGBkyr/junit/target/test-classes/com/stackroute/unittest/quickstart/AppTest.class" />
-    <entry file="file://$PROJECT_DIR$/src/LetterCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/junit/target/test-classes/com/stackroute/unittest/quickstart/AppTest2.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -453,13 +429,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/NumrepeatTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/NumrepeatTest.java" />
     <entry file="file://$PROJECT_DIR$/src/CharType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -474,55 +444,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/NumrepeatTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/CharRepeatTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Numrepeat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseString.java">
+    <entry file="file://$PROJECT_DIR$/src/AddNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="405">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NumrepeatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/CharRepeatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/revereseStringtest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="29" selection-start-line="29" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharRepeat.java">
+    <entry file="file://$PROJECT_DIR$/src/consonentvowel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state relative-caret-position="255">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/letterCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

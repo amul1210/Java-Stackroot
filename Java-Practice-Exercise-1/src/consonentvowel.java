@@ -1,23 +1,22 @@
 import java.util.Scanner;
 
 class LetterCheck {
-    public static void main(String[] args) {
-        String alphabet;
-        System.out.println("Enter an element - ");
-        Scanner s = new Scanner(System.in);
-        alphabet = s.nextLine();
+    static String consonantvowel(String alphabet) {
 
         int len = alphabet.length();
+        String answer="";
 
         for ( int i = 0 ; i < len ; i++ ) {
             if ( alphabet.charAt(i) == 'a' || alphabet.charAt(i) == 'e' || alphabet.charAt(i) == 'i' || alphabet.charAt(i) == 'o' || alphabet.charAt(i) == 'u' ) {
-                System.out.print("Vowel ");
+
+                answer=answer+"Vowel"+" ";
             } else if( alphabet.charAt(i) >= 'a' && alphabet.charAt(i) <= 'z' ){
-                System.out.print("Consonant");
+                answer=answer+"Consonent"+" ";
             }else {
-                System.out.print("Error");
+                answer=answer+"error"+" ";
             }
-        }
+        }answer.trim();
+        return answer;
 
     }
 }
