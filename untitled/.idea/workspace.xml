@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7740e4-24a3-46cb-8db2-1a2599694fee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsecutiveOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsecutiveOrNotTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixAdditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StartAndEndOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentMarksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VowelRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Practice-Exercise-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Practice-Exercise-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-practice-exercise2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-practice-exercise2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandlingPractice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,22 +21,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2350" />
+          <entry key="java" value="2353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2350" />
+          <entry key="JAVA" value="2353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -102,11 +90,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ConsecutiveOrNotTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="405">
               <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ExceptionHandlingPractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -116,8 +113,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -136,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/ChessBoard.java" />
         <option value="$PROJECT_DIR$/src/ConsecutiveOrNot.java" />
         <option value="$PROJECT_DIR$/src/ConsecutiveOrNotTest.java" />
+        <option value="$PROJECT_DIR$/src/ExceptionHandlingPractice.java" />
       </list>
     </option>
   </component>
@@ -176,7 +174,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537259890372" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537261604534" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -204,9 +202,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConsecutiveOrNotTest.consecutiveCheck">
+  <component name="RunManager" selected="Application.ExceptionHandlingPractice">
     <configuration name="ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChessBoard" />
+      <module name="PE3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingPractice" />
       <module name="PE3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -239,30 +244,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMarksTest.ExcpetionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StudentMarksTest" />
-      <option name="METHOD_NAME" value="ExcpetionTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.StudentMarksTest.ExcpetionTest" />
       <item itemvalue="Application.StartAndEndOfWeek" />
       <item itemvalue="Application.ChessBoard" />
       <item itemvalue="JUnit.ConsecutiveOrNotTest.sanityCheck" />
       <item itemvalue="JUnit.ConsecutiveOrNotTest.consecutiveCheck" />
+      <item itemvalue="Application.ExceptionHandlingPractice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandlingPractice" />
         <item itemvalue="JUnit.ConsecutiveOrNotTest.consecutiveCheck" />
         <item itemvalue="JUnit.ConsecutiveOrNotTest.sanityCheck" />
         <item itemvalue="Application.ChessBoard" />
         <item itemvalue="Application.StartAndEndOfWeek" />
-        <item itemvalue="JUnit.StudentMarksTest.ExcpetionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -305,15 +300,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32857144" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,8 +398,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ConsecutiveOrNotTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="405">
           <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandlingPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
