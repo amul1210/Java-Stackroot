@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="532b508e-0a87-4261-89d4-cb9165cdc4e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/StudentsGradesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/WordFrequencyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/intFactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordFrequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-Practice-Exercise-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Practice-Exercise-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practice-exercise2/intFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practice-exercise2/intFactorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Java-practice-exercise2/intFactorialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Java-practice-exercise2/intFactorialTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intFactorial.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +43,7 @@
     <session id="-1478429604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
@@ -85,7 +76,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/StudentsGradesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="525">
               <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -188,10 +179,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536898784353" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536898848400" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Datamunger/assignment-solution-step2" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -290,9 +281,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="intFactorialTest_FailureTest - 2018.09.12 at 14h 49m 31s.xml">
-      <configuration name="intFactorialTest.FailureTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="intFactorialTest_FailureTest - 2018.09.12 at 14h 49m 46s.xml">
       <configuration name="intFactorialTest.FailureTest" configurationId="JUnit" />
     </history-entry>
@@ -320,10 +308,12 @@
     <history-entry file="intFactorialTest - 2018.09.14 at 09h 43m 28s.xml">
       <configuration name="intFactorialTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StudentsGradesTest - 2018.09.14 at 09h 49m 49s.xml">
+      <configuration name="StudentsGradesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="690" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -339,10 +329,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -425,7 +415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/StudentsGradesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="525">
           <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
