@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9f96cea-886d-460f-a705-5801018d4a27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/TransposeStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TransposeStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindHarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindHarryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindWordOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindWordOccurrenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +26,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1477" />
+          <entry key="java" value="2233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1477" />
+          <entry key="JAVA" value="2233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -44,27 +49,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortWordsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TransposeString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +58,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TransposeStringTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+            <state>
+              <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FindWordOccurrence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindWordOccurrenceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="38" column="67" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -108,6 +113,11 @@
         <option value="$PROJECT_DIR$/src/SortWordsTest.java" />
         <option value="$PROJECT_DIR$/src/TransposeString.java" />
         <option value="$PROJECT_DIR$/src/TransposeStringTest.java" />
+        <option value="$PROJECT_DIR$/src/FindHarry.java" />
+        <option value="$PROJECT_DIR$/src/FindHarryTest.java" />
+        <option value="$PROJECT_DIR$/src/FindWordOccurance.java" />
+        <option value="$PROJECT_DIR$/src/FindWordOccurrence.java" />
+        <option value="$PROJECT_DIR$/src/FindWordOccurrenceTest.java" />
       </list>
     </option>
   </component>
@@ -148,7 +158,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537340748841" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537347888611" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -176,67 +186,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TransposeStringTest.checkName">
-    <configuration name="SortWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FindWordOccurrenceTest">
+    <configuration name="FindHarryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Practice-Exercise4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortWordsTest" />
+      <option name="MAIN_CLASS_NAME" value="FindHarryTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortWordsTest.loremIpsumCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindHarryTest.nameInAString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Practice-Exercise4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortWordsTest" />
-      <option name="METHOD_NAME" value="loremIpsumCheck" />
+      <option name="MAIN_CLASS_NAME" value="FindHarryTest" />
+      <option name="METHOD_NAME" value="nameInAString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindWordOccurrenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Practice-Exercise4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeStringTest" />
+      <option name="MAIN_CLASS_NAME" value="FindWordOccurrenceTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeStringTest.checkName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindWordOccurrenceTest.noOccurrencesFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Practice-Exercise4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeStringTest" />
-      <option name="METHOD_NAME" value="checkName" />
+      <option name="MAIN_CLASS_NAME" value="FindWordOccurrenceTest" />
+      <option name="METHOD_NAME" value="noOccurrencesFound" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeStringTest.emptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindWordOccurrenceTest.sanityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Practice-Exercise4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeStringTest" />
-      <option name="METHOD_NAME" value="emptyString" />
+      <option name="MAIN_CLASS_NAME" value="FindWordOccurrenceTest" />
+      <option name="METHOD_NAME" value="sanityCheck" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SortWordsTest.loremIpsumCheck" />
-      <item itemvalue="JUnit.SortWordsTest" />
-      <item itemvalue="JUnit.TransposeStringTest" />
-      <item itemvalue="JUnit.TransposeStringTest.emptyString" />
-      <item itemvalue="JUnit.TransposeStringTest.checkName" />
+      <item itemvalue="JUnit.FindHarryTest.nameInAString" />
+      <item itemvalue="JUnit.FindHarryTest" />
+      <item itemvalue="JUnit.FindWordOccurrenceTest.sanityCheck" />
+      <item itemvalue="JUnit.FindWordOccurrenceTest.noOccurrencesFound" />
+      <item itemvalue="JUnit.FindWordOccurrenceTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TransposeStringTest.checkName" />
-        <item itemvalue="JUnit.TransposeStringTest" />
-        <item itemvalue="JUnit.TransposeStringTest.emptyString" />
-        <item itemvalue="JUnit.SortWordsTest" />
-        <item itemvalue="JUnit.SortWordsTest.loremIpsumCheck" />
+        <item itemvalue="JUnit.FindWordOccurrenceTest" />
+        <item itemvalue="JUnit.FindWordOccurrenceTest.noOccurrencesFound" />
+        <item itemvalue="JUnit.FindWordOccurrenceTest.sanityCheck" />
+        <item itemvalue="JUnit.FindHarryTest" />
+        <item itemvalue="JUnit.FindHarryTest.nameInAString" />
       </list>
     </recent_temporary>
   </component>
@@ -254,35 +264,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortWordsTest - 2018.09.19 at 12h 01m 58s.xml">
-      <configuration name="SortWordsTest" configurationId="JUnit" />
+    <history-entry file="FindHarryTest_nameInAString - 2018.09.19 at 13h 52m 10s.xml">
+      <configuration name="FindHarryTest.nameInAString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortWordsTest - 2018.09.19 at 12h 02m 37s.xml">
-      <configuration name="SortWordsTest" configurationId="JUnit" />
+    <history-entry file="FindHarryTest - 2018.09.19 at 13h 52m 14s.xml">
+      <configuration name="FindHarryTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest - 2018.09.19 at 12h 23m 31s.xml">
-      <configuration name="TransposeStringTest" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest_sanityCheck - 2018.09.19 at 14h 22m 02s.xml">
+      <configuration name="FindWordOccurrenceTest.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest - 2018.09.19 at 12h 24m 06s.xml">
-      <configuration name="TransposeStringTest" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest_sanityCheck - 2018.09.19 at 14h 22m 25s.xml">
+      <configuration name="FindWordOccurrenceTest.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest - 2018.09.19 at 12h 24m 30s.xml">
-      <configuration name="TransposeStringTest" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest_noOccurrencesFound - 2018.09.19 at 14h 22m 30s.xml">
+      <configuration name="FindWordOccurrenceTest.noOccurrencesFound" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest - 2018.09.19 at 12h 25m 17s.xml">
-      <configuration name="TransposeStringTest" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest_sanityCheck - 2018.09.19 at 14h 26m 02s.xml">
+      <configuration name="FindWordOccurrenceTest.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest_emptyString - 2018.09.19 at 12h 27m 40s.xml">
-      <configuration name="TransposeStringTest.emptyString" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest_noOccurrencesFound - 2018.09.19 at 14h 32m 15s.xml">
+      <configuration name="FindWordOccurrenceTest.noOccurrencesFound" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest_emptyString - 2018.09.19 at 12h 29m 48s.xml">
-      <configuration name="TransposeStringTest.emptyString" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest - 2018.09.19 at 14h 32m 22s.xml">
+      <configuration name="FindWordOccurrenceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest - 2018.09.19 at 12h 29m 52s.xml">
-      <configuration name="TransposeStringTest" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest_sanityCheck - 2018.09.19 at 14h 33m 30s.xml">
+      <configuration name="FindWordOccurrenceTest.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeStringTest_checkName - 2018.09.19 at 12h 35m 37s.xml">
-      <configuration name="TransposeStringTest.checkName" configurationId="JUnit" />
+    <history-entry file="FindWordOccurrenceTest_noOccurrencesFound - 2018.09.19 at 14h 33m 52s.xml">
+      <configuration name="FindWordOccurrenceTest.noOccurrencesFound" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -342,13 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharAppearances.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SortWordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -356,13 +359,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortWords.java">
+    <entry file="file://$PROJECT_DIR$/src/FindHarryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="540">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharAppearances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindHarry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TransposeStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -373,10 +394,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TransposeStringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/SortWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindWordOccurrence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindWordOccurrenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="38" column="67" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
         </state>
       </provider>
     </entry>
