@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9f96cea-886d-460f-a705-5801018d4a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TransposeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransposeStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortAWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortAWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortWordsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransposeStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TransposeStringTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1448" />
+          <entry key="java" value="1477" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1448" />
+          <entry key="JAVA" value="1477" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -69,20 +65,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TransposeString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TransposeStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="174">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -110,8 +106,8 @@
         <option value="$PROJECT_DIR$/src/SortAWordTest.java" />
         <option value="$PROJECT_DIR$/src/SortWords.java" />
         <option value="$PROJECT_DIR$/src/SortWordsTest.java" />
-        <option value="$PROJECT_DIR$/src/TransposeStringTest.java" />
         <option value="$PROJECT_DIR$/src/TransposeString.java" />
+        <option value="$PROJECT_DIR$/src/TransposeStringTest.java" />
       </list>
     </option>
   </component>
@@ -152,7 +148,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537340391127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537340748841" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -180,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TransposeStringTest">
+  <component name="RunManager" selected="JUnit.TransposeStringTest.checkName">
     <configuration name="SortWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Practice-Exercise4" />
       <option name="PACKAGE_NAME" value="" />
@@ -199,20 +195,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortWordsTest.sanityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java-Practice-Exercise4" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortWordsTest" />
-      <option name="METHOD_NAME" value="sanityCheck" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TransposeStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Practice-Exercise4" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TransposeStringTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeStringTest.checkName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Practice-Exercise4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TransposeStringTest" />
+      <option name="METHOD_NAME" value="checkName" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -228,19 +224,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SortWordsTest.sanityCheck" />
       <item itemvalue="JUnit.SortWordsTest.loremIpsumCheck" />
       <item itemvalue="JUnit.SortWordsTest" />
       <item itemvalue="JUnit.TransposeStringTest" />
       <item itemvalue="JUnit.TransposeStringTest.emptyString" />
+      <item itemvalue="JUnit.TransposeStringTest.checkName" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TransposeStringTest.checkName" />
         <item itemvalue="JUnit.TransposeStringTest" />
         <item itemvalue="JUnit.TransposeStringTest.emptyString" />
         <item itemvalue="JUnit.SortWordsTest" />
         <item itemvalue="JUnit.SortWordsTest.loremIpsumCheck" />
-        <item itemvalue="JUnit.SortWordsTest.sanityCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -258,15 +254,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReplaceDandLTest - 2018.09.19 at 11h 02m 14s.xml">
-      <configuration name="ReplaceDandLTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortWordsTest_sanityCheck - 2018.09.19 at 11h 56m 33s.xml">
-      <configuration name="SortWordsTest.sanityCheck" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortWordsTest_loremIpsumCheck - 2018.09.19 at 11h 56m 38s.xml">
-      <configuration name="SortWordsTest.loremIpsumCheck" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortWordsTest - 2018.09.19 at 12h 01m 58s.xml">
       <configuration name="SortWordsTest" configurationId="JUnit" />
     </history-entry>
@@ -287,6 +274,15 @@
     </history-entry>
     <history-entry file="TransposeStringTest_emptyString - 2018.09.19 at 12h 27m 40s.xml">
       <configuration name="TransposeStringTest.emptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransposeStringTest_emptyString - 2018.09.19 at 12h 29m 48s.xml">
+      <configuration name="TransposeStringTest.emptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransposeStringTest - 2018.09.19 at 12h 29m 52s.xml">
+      <configuration name="TransposeStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransposeStringTest_checkName - 2018.09.19 at 12h 35m 37s.xml">
+      <configuration name="TransposeStringTest.checkName" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -370,17 +366,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TransposeStringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/TransposeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TransposeString.java">
+    <entry file="file://$PROJECT_DIR$/src/TransposeStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="174">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
         </state>
       </provider>
     </entry>

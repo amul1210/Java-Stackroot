@@ -35,8 +35,8 @@ public class TransposeStringTest {
 
     @Test
     public void checkName() {
-        String queryString = "Kushagra Agrawal";
-        String expectedString = "argahsuK lawargA";
+        String queryString = "Amul Praveen";
+        String expectedString = "lumA neevarP";
         String actualString = str.toTranspose(queryString);
         Assert.assertEquals(expectedString, actualString);
     }
