@@ -22,9 +22,6 @@ public class Student {
         return id;
     }
 
-    /*public void setAge(int age){
-        this.age = age;
-    }*/
     public int getAge(){
         return age;
     }
@@ -58,7 +55,6 @@ class Maintest{
         listofstudents.add(new Student("45612", "Asensio", 31));
         listofstudents.add(new Student("24245","Bale",22));
         Collections.sort(listofstudents, new StudentSorter());
-        //System.out.println(listofstudents);
         for(int i=0;i<listofstudents.size();i++){
             System.out.println(listofstudents.get(i).getID() + " "+ listofstudents.get(i).getName() + " " + listofstudents.get(i).getAge());
         }
